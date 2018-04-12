@@ -1,6 +1,6 @@
 # titanic-project
 ## Introduction:
-This was my first project for my datascience course. In the first two weeks of the course, we learned basic python, pandas, numpy and matplotlib. Our goal was to implement these tools to perform Exploratory Data Analysis (EDA) of the Titanic training dataset from [Kaggle](https://www.kaggle.com/c/titanic/data). This was my first datascience/coding project ever.
+This was my first project for my datascience course. In the first two weeks of the course, we learned basic python, pandas, numpy and matplotlib. Our goal was to implement these tools to perform Exploratory Data Analysis (EDA) of the Titanic training dataset from [Kaggle](https://www.kaggle.com/c/titanic/data). This was my first datascience/coding project ever!
 
 ## Data:
 The dataset consists of information for 891 of the passengers on board the titanic for it tragic journey. Feautures inclue: title/name, gender, age, passenger class, fare price, cabin and point of embarkation. The label for the dataset was the survived column, which donotes whether a passenger survived the sinking or not.
